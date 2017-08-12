@@ -6,7 +6,7 @@ googleAnalytics = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
 footnotereturnlinkcontents = "↩"
-publishDir = "docs"
+publishDir = "."
 
 [permalinks]
     post = "/post/:year/:month/:day/:slug/"
